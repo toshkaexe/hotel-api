@@ -1,0 +1,7 @@
+GET localhost:8091/staff
+
+###
+GET localhost:8091/pokemonlist10
+
+###
+GET localhost:8091/rooms
